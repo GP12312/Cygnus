@@ -1,2 +1,1 @@
-# Cygnus
-Data Science 
+# Cyguns
